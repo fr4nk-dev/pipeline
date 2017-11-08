@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/.git/
+**/.vscode/
+**/.DS_Store/
+infra/
+**/Dockerfile*
+**/.dockerignore*
+**/.gitignore
+**/docker-compose*.yml
